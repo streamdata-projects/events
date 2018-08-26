@@ -3,7 +3,7 @@ url: syndication.streamdata.io
 philosophy: This is our project area for tracking on conferences and other events
   that are relevant to Streamdata.io. We publish lists of the eveents we are watching,
   complete with their Twitter accounts, and searches for hashtags. Providing one place
-  where we can find the events care about or will be attending.
+  where we can find the events care about or will be attending. We are always looking for interesting data, API, and other technical or business events, and if there is an event missing, please let us know.
 events::
   - organization_id: IYmrRpPE3JIEuUdlYV0iaT1fdDqLQi123qzWMrBMi0Tlo117
     name: ApacheCon
