@@ -69,6 +69,34 @@ layout: default
          </div>
          {% endif %}
 
+         {% assign number_of_competition_twitter = competition.latest_tweets | size %}
+         {% if number_of_competition_twitter > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest Twitter:</strong></p>
+           <div style="height: 200px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for twitter in competition.latest_tweets %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ twitter.title }}</a></li>
+               {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+         {% assign number_of_competition_twitter = competition.latest_twitter_search | size %}
+         {% if number_of_competition_twitter > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest Twitter Mentions:</strong></p>
+           <div style="height: 200px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for twitter in competition.latest_tweets %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ twitter.title }}</a></li>
+               {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
          {% assign number_of_events_reddit_search = event.latest_reddit_searches | size %}
          {% if number_of_events_reddit_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
