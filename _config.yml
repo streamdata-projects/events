@@ -678,6 +678,14 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Authors with technical books on #APIs #microservices #kubernetes #servicemesh
+      #containers #AI #Machine_Learning... https://t.co/4lFkKZACn9"
+    url: https://twitter.com/APIWorld/status/1034495975765803008
+    time_stamp: "2018-08-28 10:40:35"
+  - title: "RT @jjrichardtang: Come meet the @IBM team at @APIWorld Sept 10-12. We
+      will be talking about leveraging exciting technologies such as #Kube..."
+    url: https://twitter.com/APIWorld/status/1034494220587937792
+    time_stamp: "2018-08-28 10:33:36"
   - title: "Today is the final day to save $300 on your @APIWorld passes  prices
       go up at 11:59pm PT! Join us for new Keynotes... https://t.co/ti3jaxj60C"
     url: https://twitter.com/APIWorld/status/1027672011064139777
@@ -764,13 +772,6 @@ events:
       of #apitesting in #healthcare at @APIWorld #APIWorld17 . https://t...."
     url: https://twitter.com/APIWorld/status/913108273066397697
     time_stamp: "2017-09-27 11:29:11"
-  - title: 'RT @sidehustlebae: Awesome app with equally awesome stickers! @APIWorld
-      @postmanclient! https://t.co/qPV438O11w'
-    url: https://twitter.com/APIWorld/status/913108098105188352
-    time_stamp: "2017-09-27 11:28:29"
-  - title: 'RT @TheNeura: When APIs meet #AI @kbondi @APIWorld #APIWorld17 https://t.co/1an7PjU2DZ'
-    url: https://twitter.com/APIWorld/status/913108049937801218
-    time_stamp: "2017-09-27 11:28:18"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
