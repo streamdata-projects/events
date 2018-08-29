@@ -40,16 +40,16 @@ layout: default
            <p><strong>Key Links:</strong></p>
            <ul style="list-style-type: circle; padding-top: 15px;">
              <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ event.url }}" style="color: #000; text-decoration: underline;">Website</a></li>
-             {% if blog_url != '' %}
+             {% if event.blog_url %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ event.blog_url }}" style="color: #000; text-decoration: underline;" target="_blank">Blog</a></li>
              {% endif %}
-             {% if blog_rss_url != '' %}
+             {% if event.blog_rss_url != '' %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ event.blog_rss_url }}" style="color: #000; text-decoration: underline;" target="_blank">Blog RSS</a></li>
              {% endif %}
-             {% if twitter_url != '' %}
+             {% if event.twitter_url != '' %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ event.twitter_url }}" style="color: #000; text-decoration: underline;" target="_blank">Twitter</a></li>
              {% endif %}
-             {% if github_url != '' %}
+             {% if event.github_url != '' %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ event.github_url }}" style="color: #000; text-decoration: underline;" target="_blank">GitHub</a></li>
              {% endif %}
            </ul>
