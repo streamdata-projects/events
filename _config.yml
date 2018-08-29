@@ -1618,8 +1618,8 @@ events:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  image: ""
-  image_width: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-now.png
+  image_width: "150"
   latest_blog: []
   latest_tweets: []
   latest_twitter_search: []
