@@ -49,6 +49,9 @@ layout: default
              {% if event.twitter_url != '' %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ event.twitter_url }}" style="color: #000; text-decoration: underline;" target="_blank">Twitter</a></li>
              {% endif %}
+             {% if event.hashtag != '' %}
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="https://twitter.com/search?q={{ event.hashtag }}&src=typd" style="color: #000; text-decoration: underline;" target="_blank">{{ event.hashtag }}</a></li>
+             {% endif %}
              {% if event.github_url != '' %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ event.github_url }}" style="color: #000; text-decoration: underline;" target="_blank">GitHub</a></li>
              {% endif %}
