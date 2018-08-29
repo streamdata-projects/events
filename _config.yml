@@ -18,7 +18,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#ApacheCon'
+  twitter_url: https://twitter.com/ApacheCon
+  hashtag: '#ApacheCon'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -241,7 +242,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#APICity'
+  twitter_url: https://twitter.com/apicityconf
+  hashtag: '#APICity'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -440,7 +442,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#APIStrat'
+  twitter_url: https://twitter.com/apistrat
+  hashtag: '#APIStrat'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -668,7 +671,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#APIWorld'
+  twitter_url: https://twitter.com/apiworld
+  hashtag: '#APIWorld'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -893,7 +897,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#Dreamforce'
+  twitter_url: https://twitter.com/Dreamforce
+  hashtag: '#Dreamforce'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -1126,7 +1131,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#kafkasummit'
+  twitter_url: ""
+  hashtag: '#kafkasummit'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -1257,7 +1263,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#KongSummit'
+  twitter_url: ""
+  hashtag: '#KongSummit'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -1384,7 +1391,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#restfest'
+  twitter_url: https://twitter.com/restfest
+  hashtag: '#restfest'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -1612,7 +1620,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#TibcoNow'
+  twitter_url: ""
+  hashtag: '#TibcoNow'
   github_url: ""
   tag_url: ""
   tag_description: ""
@@ -1642,7 +1651,8 @@ events:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: '#TDWI'
+  twitter_url: https://twitter.com/TDWI
+  hashtag: '#TDWI'
   github_url: ""
   tag_url: ""
   tag_description: ""
