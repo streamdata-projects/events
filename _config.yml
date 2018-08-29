@@ -1599,6 +1599,36 @@ events:
   tags:
   - SDIO Events
   - API Events
+- organization_id: qpcBJh6aR4qtAdiiPJ4U6jbWv5s1163RAmZCG6r4Vnp24117
+  name: Tibco Now
+  description: In the spirit of companies transitioning from digital transformation
+    strategy to implementation, TIBCO NOW 2018 will focus on how businesses can continuously
+    adapt with innovation, and operate at the cutting edge. Innovation is the key
+    to differentiation. Whether you need to grow, transform, or even just survive,
+    innovation is the key to getting and staying ahead. However, more than 54% of
+    executives surveyed admit they struggle to align innovation strategy with business
+    strategy.
+  url: https://now.tibco.com/
+  email: ""
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: '#TibcoNow'
+  github_url: ""
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: ""
+  image_width: ""
+  latest_blog: []
+  latest_tweets: []
+  latest_twitter_search: []
+  latest_github_activity: []
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  latest_stack_exchange_searches: []
+  tags:
+  - SDIO Events
 - organization_id: ytStBc4Uv9g2e5rLpPCIcPmFuQbG116qkw211163yhDFgK4117
   name: Transforming Data With Intelligence (TDWI) Conference
   description: For 20 years, TDWI has been helping data professionals get smarter
