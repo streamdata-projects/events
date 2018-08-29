@@ -453,6 +453,45 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Come and be a part of How the Standardization of #OASv3 Refactored a Government
+      with @dvh of @apiwise at APISTRAT i... https://t.co/o7UiDHvI8M"
+    url: https://twitter.com/apistrat/status/1034908685120745475
+    time_stamp: "2018-08-29 14:00:32"
+  - title: Join @bengreen of @Comcast on Sept 24-26 in Nashville for APISTRAT | https://t.co/oeMivVHjgT
+    url: https://twitter.com/apistrat/status/1034863378806841345
+    time_stamp: "2018-08-29 11:00:30"
+  - title: "Join us at the APISTART Keynote: Tech Humanism: Integration, Automation,
+      and the Future of Human Experience with Ka... https://t.co/58NKhYWrjk"
+    url: https://twitter.com/apistrat/status/1034848293937995781
+    time_stamp: "2018-08-29 10:00:34"
+  - title: Join James Bowes of @manifoldco on Sept 24-26 in Nashville for APISTRAT
+      | https://t.co/RQcMAYasb3
+    url: https://twitter.com/apistrat/status/1034840718676770819
+    time_stamp: "2018-08-29 09:30:28"
+  - title: 'Join us at APISTART for Practical #SecDevOps for #APIs with @isamauny
+      of @42Crunch | https://t.co/OstuuO9L08'
+    url: https://twitter.com/apistrat/status/1034833181839695873
+    time_stamp: "2018-08-29 09:00:31"
+  - title: Get the latest on OAI and OAI Tools at APISTART in Nashville Sept. 24-26
+      from @medjawii  @CAinc | https://t.co/qV1E775qvj
+    url: https://twitter.com/apistrat/status/1034810520124178434
+    time_stamp: "2018-08-29 07:30:28"
+  - title: 'Join @SkipHovsmith of @critblue at @APISTRAT for A Tour of Mobile #API
+      Protection | https://t.co/PlY9o63qkC'
+    url: https://twitter.com/apistrat/status/1034772785858527233
+    time_stamp: "2018-08-29 05:00:31"
+  - title: "Get the latest on Describing and Understanding APIs at APISTART in Nashville
+      Sept. 24-26 from James Bowes of... https://t.co/Mjz8uyvjgH"
+    url: https://twitter.com/apistrat/status/1034757670564229120
+    time_stamp: "2018-08-29 04:00:28"
+  - title: "@chuckstar That is exactly right. Check out our Playlist we are putting
+      together with @CapitalOneDevEx of Nashville... https://t.co/NjvFZ69r9B"
+    url: https://twitter.com/apistrat/status/1034640526123786240
+    time_stamp: "2018-08-28 20:14:58"
+  - title: "Come and be a part of The Part They Do Not Tell You About #Microservices
+      with Muktesh Mishra of @CapitalOneDevEx at... https://t.co/8gN0B3Bxej"
+    url: https://twitter.com/apistrat/status/1034553825284317188
+    time_stamp: "2018-08-28 14:30:27"
   - title: "Come and be a part of Hack Your Way to Improved #API Usability with Rachel
       Muller of @AspectSoftware at APISTRAT in... https://t.co/82kl1eKpkW"
     url: https://twitter.com/apistrat/status/1034546304033140737
@@ -512,46 +551,6 @@ events:
       | https://t.co/iutEyU8JjE
     url: https://twitter.com/apistrat/status/1034168791637348352
     time_stamp: "2018-08-27 13:00:28"
-  - title: Get the latest on API as Products at APISTART in Nashville Sept. 24-26
-      from @adybho of @PayPal | https://t.co/O8A6RwCW7P
-    url: https://twitter.com/apistrat/status/1034138596444438528
-    time_stamp: "2018-08-27 11:00:29"
-  - title: Join James Higginbotham, @LaunchAny on Sept 24-26 in Nashville for APISTRAT
-      | https://t.co/bC26qDyP8x
-    url: https://twitter.com/apistrat/status/1034131060450320385
-    time_stamp: "2018-08-27 10:30:32"
-  - title: "Join @davidjustice of @Microsoft &amp; Joe Levy of @Oracle at @APISTRAT
-      for Delivering Developer Tools at Scale: Micros... https://t.co/3MCTx7D7UG"
-    url: https://twitter.com/apistrat/status/1034123527476178944
-    time_stamp: "2018-08-27 10:00:36"
-  - title: 'Join @TheMikeJang of @ForgeRock at @APISTRAT for Minimum Viable Documentation
-      for #RESTful #APIs | https://t.co/iutEyU8JjE'
-    url: https://twitter.com/apistrat/status/1034115937765650432
-    time_stamp: "2018-08-27 09:30:27"
-  - title: Get the latest on Orgs and Their APIs at APISTART in Nashville Sept. 24-26
-      from @libel_vox of @CapitalOneDevEx | https://t.co/DmWtKFRlUe
-    url: https://twitter.com/apistrat/status/1034108400995581953
-    time_stamp: "2018-08-27 09:00:30"
-  - title: Get the latest on API Workshops at APISTART in Nashville Sept. 24-26 from
-      @isamauny of @42Crunch | https://t.co/OstuuNS9By
-    url: https://twitter.com/apistrat/status/1034093327258279937
-    time_stamp: "2018-08-27 08:00:36"
-  - title: Join @Stephen_Mizell of @Autodesk on Sept 24-26 in Nashville for APISTRAT
-      | https://t.co/vS4HctoY3r
-    url: https://twitter.com/apistrat/status/1034085742908243968
-    time_stamp: "2018-08-27 07:30:28"
-  - title: 'Join us at APISTART for Usable #APIs at Scale With Protocol Buffers and
-      #gRPC with @TimBurks of @Google | https://t.co/oTGTOm2J3L'
-    url: https://twitter.com/apistrat/status/1034078209497804800
-    time_stamp: "2018-08-27 07:00:32"
-  - title: Get the latest on API as Products at APISTART in Nashville Sept. 24-26
-      from @kvantomme of @Pronovix | https://t.co/eXey2eA17c
-    url: https://twitter.com/apistrat/status/1034048028385189888
-    time_stamp: "2018-08-27 05:00:36"
-  - title: Get the latest on API as Products at APISTART in Nashville Sept. 24-26
-      from @nanovazquez87 of @MuleSoft | https://t.co/Kzfq2oMMuk
-    url: https://twitter.com/apistrat/status/1033836600587956229
-    time_stamp: "2018-08-26 15:00:27"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
