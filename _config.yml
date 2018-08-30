@@ -681,6 +681,10 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @postmanclient: Our CEO and Co-founder, @a85 will share tips on making
+      your API developer-friendly, well-known, and well-used in his key..."
+    url: https://twitter.com/APIWorld/status/1035135699262091266
+    time_stamp: "2018-08-30 05:02:37"
   - title: "Authors with technical books on #APIs #microservices #kubernetes #servicemesh
       #containers #AI #Machine_Learning... https://t.co/4lFkKZACn9"
     url: https://twitter.com/APIWorld/status/1034495975765803008
@@ -771,10 +775,6 @@ events:
       of must sees. Its the only way to make your business..flow. @..."
     url: https://twitter.com/APIWorld/status/913108408345272322
     time_stamp: "2017-09-27 11:29:43"
-  - title: "RT @XBOSoft: Our CEO, @philiplew, giving a short talk on the challenges
-      of #apitesting in #healthcare at @APIWorld #APIWorld17 . https://t...."
-    url: https://twitter.com/APIWorld/status/913108273066397697
-    time_stamp: "2017-09-27 11:29:11"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
