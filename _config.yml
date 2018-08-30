@@ -453,6 +453,18 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Come and be a part of How to Build the Status #APIs of Your #Microservices
+      Ecosystem with @nanovazquez87 of... https://t.co/KwjPBOT3Hh"
+    url: https://twitter.com/apistrat/status/1035271067911241738
+    time_stamp: "2018-08-30 14:00:31"
+  - title: "Join @pmcray of @APImetricStats at @APISTRAT for Smart Service Level Objectives
+      and Key Performance Indicators for... https://t.co/n01isu3Pem"
+    url: https://twitter.com/apistrat/status/1034923772611112960
+    time_stamp: "2018-08-29 15:00:30"
+  - title: "Come and be a part of The Young and the #RESTless with @gkoberger of @readmeio
+      at APISTRAT in Nashville on Sept 24-... https://t.co/QlXYrA7TmG"
+    url: https://twitter.com/apistrat/status/1034916225762119680
+    time_stamp: "2018-08-29 14:30:30"
   - title: "Come and be a part of How the Standardization of #OASv3 Refactored a Government
       with @dvh of @apiwise at APISTRAT i... https://t.co/o7UiDHvI8M"
     url: https://twitter.com/apistrat/status/1034908685120745475
@@ -539,18 +551,6 @@ events:
       from Marc-Andre Giroux of @GitHub | https://t.co/U9HhrDC5c1
     url: https://twitter.com/apistrat/status/1034198998968545280
     time_stamp: "2018-08-27 15:00:30"
-  - title: "Come and be a part of The Implication of Hyrum's Law on #Hypermedia
-      REST #APIs with @bengreen of @Comcast at APISTR... https://t.co/THAPK58IqM"
-    url: https://twitter.com/apistrat/status/1034191443286523905
-    time_stamp: "2018-08-27 14:30:29"
-  - title: "Come and be a part of Go Full Throttle: The Essentials of Throttling in
-      Your #API or #MicroService Architecture wit... https://t.co/b5QAytnDXB"
-    url: https://twitter.com/apistrat/status/1034183908244549632
-    time_stamp: "2018-08-27 14:00:32"
-  - title: Join @TheMikeJang of @ForgeRock on Sept 24-26 in Nashville for APISTRAT
-      | https://t.co/iutEyU8JjE
-    url: https://twitter.com/apistrat/status/1034168791637348352
-    time_stamp: "2018-08-27 13:00:28"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
