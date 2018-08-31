@@ -453,6 +453,14 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @apievangelist: Thank you to @RedHat and @WSO2 for being PLATINUM sponsors
+      of @apistrat in Nashville next month - https://t.co/ZFHrdng1w..."
+    url: https://twitter.com/apistrat/status/1035569689286438912
+    time_stamp: "2018-08-31 09:47:08"
+  - title: "Come and be a part of Transforming Integration Projects into #API Products
+      in the #Healthcare Enterprise with Shelb... https://t.co/q6wKlGN6H0"
+    url: https://twitter.com/apistrat/status/1035278602600960000
+    time_stamp: "2018-08-30 14:30:28"
   - title: "Come and be a part of How to Build the Status #APIs of Your #Microservices
       Ecosystem with @nanovazquez87 of... https://t.co/KwjPBOT3Hh"
     url: https://twitter.com/apistrat/status/1035271067911241738
@@ -543,14 +551,6 @@ events:
   - title: Join @dret of @APIAcademy on Sept 24-26 in Nashville for APISTRAT | https://t.co/zwtbhvHxRf
     url: https://twitter.com/apistrat/status/1034440612735582208
     time_stamp: "2018-08-28 07:00:35"
-  - title: Get the latest on API as Products at APISTART in Nashville Sept. 24-26
-      from Chris Phillips of @IBM | https://t.co/JUwUg1AAdh
-    url: https://twitter.com/apistrat/status/1034395283122253824
-    time_stamp: "2018-08-28 04:00:28"
-  - title: Get the latest on API as Products at APISTART in Nashville Sept. 24-26
-      from Marc-Andre Giroux of @GitHub | https://t.co/U9HhrDC5c1
-    url: https://twitter.com/apistrat/status/1034198998968545280
-    time_stamp: "2018-08-27 15:00:30"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
