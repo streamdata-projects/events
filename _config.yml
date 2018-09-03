@@ -681,6 +681,14 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Attending #APIWorld18 in San Jose? Come stop by Agoras booth #311 and
+      learn about real-time communications and how... https://t.co/RjiS1r7aYq"
+    url: https://twitter.com/APIWorld/status/1036697594880245761
+    time_stamp: "2018-09-03 12:29:02"
+  - title: "Everything you need to know about building the Integrated API-Driven Company
+      - at #APIWorld18 - in less than two we... https://t.co/rtaaDEnuwD"
+    url: https://twitter.com/APIWorld/status/1036655813367144448
+    time_stamp: "2018-09-03 09:43:00"
   - title: "Join @kdaigle @GitHubAPI and his Open Talk Building and Scaling the GitHub
       Platform at #APIWorld18 on 09/11 in Sa... https://t.co/1lUVLPq7c9"
     url: https://twitter.com/APIWorld/status/1035726454536003584
@@ -766,13 +774,6 @@ events:
   - title: Microservices messaging becomes a hot topic at API World https://t.co/27e3aaDmiA
     url: https://twitter.com/APIWorld/status/919281749028474880
     time_stamp: "2017-10-14 12:20:23"
-  - title: Reducing Microservice Overhead with Shared Libraries https://t.co/pqOq92PMdT
-    url: https://twitter.com/APIWorld/status/919072540106117120
-    time_stamp: "2017-10-13 22:29:03"
-  - title: "While were sad that #APIWorld17 is over, were happy to share these photo
-      highlights with you! Tag yourself!... https://t.co/jXuP7oqbGz"
-    url: https://twitter.com/APIWorld/status/913766578809958400
-    time_stamp: "2017-09-29 07:05:04"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
