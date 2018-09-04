@@ -681,6 +681,38 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Were excited to have @TIBCO @jitterbit @accusoft @adobe @AgoraIO @awscloud
+      @CATechnologies @dzone @here @pubnub... https://t.co/PMHQ8XkPFe"
+    url: https://twitter.com/APIWorld/status/1037059988479463424
+    time_stamp: "2018-09-04 12:29:03"
+  - title: "RT @MattMcLartyBC: Less than a week until @APIWorld in San Jose! Hear
+      about the latest on #ServiceMesh and more at the #Microservices Confe..."
+    url: https://twitter.com/APIWorld/status/1037053043798241280
+    time_stamp: "2018-09-04 12:01:27"
+  - title: "RT @RogueWaveInc: Excited to be heading to #APIWorld18 next week!Drop
+      by booth 319 to talk with our experts about developing, managing, a..."
+    url: https://twitter.com/APIWorld/status/1037052995991556096
+    time_stamp: "2018-09-04 12:01:16"
+  - title: "RT @axiomatics: Gerry Gebel (@ggebel) and Jonas Iggbom (@iggbom) of @axiomatics
+      will present #API #Security: When #OAuth Is Not Enough at..."
+    url: https://twitter.com/APIWorld/status/1037052977809317888
+    time_stamp: "2018-09-04 12:01:12"
+  - title: "Have you heard? Enterprise-grade barcode scanning in a keyboard wedge
+      app! Check it out and leave the barcode scann... https://t.co/zGKOUYtg0t"
+    url: https://twitter.com/APIWorld/status/1037018200746151936
+    time_stamp: "2018-09-04 09:43:00"
+  - title: "RT @ForumSystems: Going to @apiworld next week? Be sure to catch our OPEN
+      TALK: Combine API and IAM into a Simplified and Secure Architectu..."
+    url: https://twitter.com/APIWorld/status/1037013975672573952
+    time_stamp: "2018-09-04 09:26:13"
+  - title: "RT @pingidentity: Great news! Ping Identity has been honored w/ the #APIWorld18
+      Award for Best in #APISecurity. Read on for details &amp; if..."
+    url: https://twitter.com/APIWorld/status/1037013934752989185
+    time_stamp: "2018-09-04 09:26:03"
+  - title: "RT @Synerzip: We are at the #APIWorld18! Join us at Booth 225 to know
+      more about #Agile #SoftwareProduct development. https://t.co/xxA8v3YU..."
+    url: https://twitter.com/APIWorld/status/1037013886048722944
+    time_stamp: "2018-09-04 09:25:51"
   - title: "Attending #APIWorld18 in San Jose? Come stop by Agoras booth #311 and
       learn about real-time communications and how... https://t.co/RjiS1r7aYq"
     url: https://twitter.com/APIWorld/status/1036697594880245761
@@ -747,33 +779,6 @@ events:
       will be talking about leveraging exciting technologies such as #Kube..."
     url: https://twitter.com/APIWorld/status/1034494220587937792
     time_stamp: "2018-08-28 10:33:36"
-  - title: "Today is the final day to save $300 on your @APIWorld passes  prices
-      go up at 11:59pm PT! Join us for new Keynotes... https://t.co/ti3jaxj60C"
-    url: https://twitter.com/APIWorld/status/1027672011064139777
-    time_stamp: "2018-08-09 14:44:35"
-  - title: "@KenKruszka We can't wait for the 2018 API Awards ceremony during
-      @APIWorld! (Mon, Sep 10 @ 6:00pm)"
-    url: https://twitter.com/APIWorld/status/1020088035818565632
-    time_stamp: "2018-07-19 16:28:34"
-  - title: "Reminder: @APIWorld prices increase tonightsave $500 until 11:59pm
-      PT. Join our 3,000+ registered attendees. We've... https://t.co/usGmoHquwh"
-    url: https://twitter.com/APIWorld/status/1017542392516366336
-    time_stamp: "2018-07-12 15:53:06"
-  - title: Which Are Developers Favorite APIs? https://t.co/ePN5b3J21f
-    url: https://twitter.com/APIWorld/status/927344824688304128
-    time_stamp: "2017-11-05 17:20:10"
-  - title: 'RT @harrymccracken: More Animoji Karaoke for you. https://t.co/pxvxfCUTi2'
-    url: https://twitter.com/APIWorld/status/926148513372737537
-    time_stamp: "2017-11-02 11:06:27"
-  - title: 2017 State of API Survey released https://t.co/75RWcG9yxP
-    url: https://twitter.com/APIWorld/status/919569863559073793
-    time_stamp: "2017-10-15 07:25:14"
-  - title: Propeller Launches Open Asthma Conditions Forecast API https://t.co/coMVl8feAq
-    url: https://twitter.com/APIWorld/status/919432446722134016
-    time_stamp: "2017-10-14 22:19:12"
-  - title: Microservices messaging becomes a hot topic at API World https://t.co/27e3aaDmiA
-    url: https://twitter.com/APIWorld/status/919281749028474880
-    time_stamp: "2017-10-14 12:20:23"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
