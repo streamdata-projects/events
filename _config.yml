@@ -453,6 +453,14 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @whitlockjc: Anyone want to talk about @OpenApiSpec v3.x support in
+      #sway?  Join me here: https://t.co/nscb24IgQg #APIs #JavaScript #nod..."
+    url: https://twitter.com/apistrat/status/1037429836174651392
+    time_stamp: "2018-09-05 12:58:42"
+  - title: "Come learn how the Developer Experience teams at @Azure &amp; @OracleCloud
+      deliver high-quality #SDKs and documentation... https://t.co/Fy0PC8IFow"
+    url: https://twitter.com/apistrat/status/1037109556063563776
+    time_stamp: "2018-09-04 15:46:01"
   - title: "RT @apievangelist: Thank you to @RedHat and @WSO2 for being PLATINUM sponsors
       of @apistrat in Nashville next month - https://t.co/ZFHrdng1w..."
     url: https://twitter.com/apistrat/status/1035569689286438912
@@ -544,13 +552,6 @@ events:
       from Jim Laredo &amp; Erik Wittern of... https://t.co/84JJY2PnMU"
     url: https://twitter.com/apistrat/status/1034455692000808960
     time_stamp: "2018-08-28 08:00:30"
-  - title: "Get the latest on All Microservices All the Time at APISTART in Nashville
-      Sept. 24-26 from Muktesh Mishra of... https://t.co/VlHDnAYdPU"
-    url: https://twitter.com/apistrat/status/1034448134280306689
-    time_stamp: "2018-08-28 07:30:28"
-  - title: Join @dret of @APIAcademy on Sept 24-26 in Nashville for APISTRAT | https://t.co/zwtbhvHxRf
-    url: https://twitter.com/apistrat/status/1034440612735582208
-    time_stamp: "2018-08-28 07:00:35"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
