@@ -453,6 +453,10 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "We are hosting a fun run on September 26 at #APIStrat  \U0001F389 Come
+      run, jog or walk with us before the big event. RSVP h... https://t.co/b6QeB3AFLt"
+    url: https://twitter.com/apistrat/status/1037696551966179328
+    time_stamp: "2018-09-06 06:38:32"
   - title: "RT @whitlockjc: Anyone want to talk about @OpenApiSpec v3.x support in
       #sway?  Join me here: https://t.co/nscb24IgQg #APIs #JavaScript #nod..."
     url: https://twitter.com/apistrat/status/1037429836174651392
@@ -548,10 +552,6 @@ events:
       | https://t.co/VMBLabxZbz'
     url: https://twitter.com/apistrat/status/1034463240443580416
     time_stamp: "2018-08-28 08:30:30"
-  - title: "Get the latest on API as Products at APISTART in Nashville Sept. 24-26
-      from Jim Laredo &amp; Erik Wittern of... https://t.co/84JJY2PnMU"
-    url: https://twitter.com/apistrat/status/1034455692000808960
-    time_stamp: "2018-08-28 08:00:30"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
