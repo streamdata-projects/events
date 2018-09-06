@@ -682,6 +682,33 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @IBMintegration: #APIWorld18 is next week! \U0001F64C Weve got some
+      great sessions on #APIeconomy biz strategy, #API management, @Istio, service..."
+    url: https://twitter.com/APIWorld/status/1037762007020134401
+    time_stamp: "2018-09-06 10:58:37"
+  - title: "Dont miss the world's largest API + Integration Tradeshow with 3,000
+      developers, executives, and entrepreneurs in... https://t.co/LLnbS6Wa1C"
+    url: https://twitter.com/APIWorld/status/1037538390521126913
+    time_stamp: "2018-09-05 20:10:03"
+  - title: "@_lcmalagon we cant wait! \U0001F64C"
+    url: https://twitter.com/APIWorld/status/1037507367351406593
+    time_stamp: "2018-09-05 18:06:46"
+  - title: "RT @Synerzip: We will be at the #APIWorld18! Join us at Booth 225 to know
+      more about #Agile #SoftwareProduct development. https://t.co/xxA8..."
+    url: https://twitter.com/APIWorld/status/1037507271599710209
+    time_stamp: "2018-09-05 18:06:24"
+  - title: "RT @jitterbit: Jitterbits Chief Strategy Officer @simonlpeel is hosting
+      the Connect to Any Existing System with Auto-Created #APIs works..."
+    url: https://twitter.com/APIWorld/status/1037507238556925953
+    time_stamp: "2018-09-05 18:06:16"
+  - title: "RT @ForumSystems: Going to @apiworld next week? Be sure to catch our OPEN
+      TALK: Combine API and IAM into a Simplified and Secure Architectu..."
+    url: https://twitter.com/APIWorld/status/1037507209536495616
+    time_stamp: "2018-09-05 18:06:09"
+  - title: "Learn How APIs Enable Everyone to Use Machine Learning in a talk by @mlhassett
+      @sap at #APIWorld18 in San Jose next... https://t.co/na9wv8qsUT"
+    url: https://twitter.com/APIWorld/status/1037498182358511617
+    time_stamp: "2018-09-05 17:30:17"
   - title: "Win prizes from @agoraIO @awscloud @netifi_inc @ProgressSW and @TIBCO
       at the nation's largest API + Integration hac... https://t.co/xEhcUf4BMq"
     url: https://twitter.com/APIWorld/status/1037422365796433921
@@ -754,32 +781,6 @@ events:
       Lead Developer Evangelist, @sidsharma_27,  has an answer for you! C..."
     url: https://twitter.com/APIWorld/status/1035641348626440192
     time_stamp: "2018-08-31 14:31:53"
-  - title: "RT @rapid_api: Can't wait to meet everyone at #APIWorld18!!! Our
-      CEO @iddogino is giving a keynote on the API management market on Wednesda..."
-    url: https://twitter.com/APIWorld/status/1035641295631339521
-    time_stamp: "2018-08-31 14:31:40"
-  - title: "RT @IBMintegration: \U0001F4E3 Were attending @APIWorld 2018! Our sessions
-      are on #APIeconomy biz strategy, #API management, @Istio, service mesh,..."
-    url: https://twitter.com/APIWorld/status/1035584692098158592
-    time_stamp: "2018-08-31 10:46:45"
-  - title: "@luis_65o Thats awesome, we hope youll have a great time! \U0001F64C"
-    url: https://twitter.com/APIWorld/status/1035584651732176896
-    time_stamp: "2018-08-31 10:46:35"
-  - title: "RT @postmanclient: Our Developer Advocate, @PetuniaGray will be speaking
-      at @APIWorld and sharing tips for improving your documentation! ht..."
-    url: https://twitter.com/APIWorld/status/1035584504503656448
-    time_stamp: "2018-08-31 10:46:00"
-  - title: '@RogueWaveInc Were looking forward to seeing you in San Jose very soon!'
-    url: https://twitter.com/APIWorld/status/1035584472060768256
-    time_stamp: "2018-08-31 10:45:53"
-  - title: "RT @DelCarr3: API World 2018 at the San Jose Convention Center September
-      8-12th connects 3,000 Executives, Engineers, and Entrepreneurs in..."
-    url: https://twitter.com/APIWorld/status/1035584356146921472
-    time_stamp: "2018-08-31 10:45:25"
-  - title: "RT @AgoraIO: Attending @APIWorld in #SanJose? Come stop by our booth #311
-      and learn about real-time communications and how you can easily a..."
-    url: https://twitter.com/APIWorld/status/1035584205139451904
-    time_stamp: "2018-08-31 10:44:49"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
