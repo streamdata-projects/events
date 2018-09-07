@@ -682,6 +682,34 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Dont miss #APIWorld18 keynotes by @wadefoster (@zapier), @screaminggeek
+      (@ebay), @iddogino (@rapid_api), @chdow (... https://t.co/PuNfHI2wxk"
+    url: https://twitter.com/APIWorld/status/1038162644035821569
+    time_stamp: "2018-09-07 13:30:37"
+  - title: "RT @2D_Revolution: #APIWorld18 is next week! We will be speaking about
+      our barcode decoding software on the Expo Stage. When? Sept. 12th at..."
+    url: https://twitter.com/APIWorld/status/1038157276035469312
+    time_stamp: "2018-09-07 13:09:17"
+  - title: "RT @hashgraph: @APIWorld attendees: Simi Hunjan will present Hedera @Hashgraphs
+      APIs for High Transactional, Secure, and Fair Appps 9/12 1..."
+    url: https://twitter.com/APIWorld/status/1038157150739030016
+    time_stamp: "2018-09-07 13:08:47"
+  - title: "RT @pingidentity: See Tracking Hackers - #Cybersecurity for APIs w/ Ping
+      SVP of Intelligence @bernardh_ at @APIWorld to learn how w/ #Pin..."
+    url: https://twitter.com/APIWorld/status/1038157107302789120
+    time_stamp: "2018-09-07 13:08:37"
+  - title: "RT @RogueWaveInc: Interested in learning how API management and service
+      mesh work together?Attend the @APIWorld open talk by @RodCope nex..."
+    url: https://twitter.com/APIWorld/status/1037854433785204736
+    time_stamp: "2018-09-06 17:05:54"
+  - title: "RT @netifi_inc: Interested in @APIWorld next week in San Jose? We have
+      free OPEN Passes to share with developers, dev managers, tech execs..."
+    url: https://twitter.com/APIWorld/status/1037854394438406144
+    time_stamp: "2018-09-06 17:05:44"
+  - title: 'RT @ErikAsCode: Looking forward to speaking at API World 2018 https://t.co/HMjU0BhWwm
+      next week! @APIWorld #APIWorld18 #IWork4Dell'
+    url: https://twitter.com/APIWorld/status/1037854313580654592
+    time_stamp: "2018-09-06 17:05:25"
   - title: "RT @IBMintegration: #APIWorld18 is next week! \U0001F64C Weve got some
       great sessions on #APIeconomy biz strategy, #API management, @Istio, service..."
     url: https://twitter.com/APIWorld/status/1037762007020134401
@@ -753,34 +781,6 @@ events:
       Award for Best in #APISecurity. Read on for details &amp; if..."
     url: https://twitter.com/APIWorld/status/1037013934752989185
     time_stamp: "2018-09-04 09:26:03"
-  - title: "RT @Synerzip: We are at the #APIWorld18! Join us at Booth 225 to know
-      more about #Agile #SoftwareProduct development. https://t.co/xxA8v3YU..."
-    url: https://twitter.com/APIWorld/status/1037013886048722944
-    time_stamp: "2018-09-04 09:25:51"
-  - title: "Attending #APIWorld18 in San Jose? Come stop by Agoras booth #311 and
-      learn about real-time communications and how... https://t.co/RjiS1r7aYq"
-    url: https://twitter.com/APIWorld/status/1036697594880245761
-    time_stamp: "2018-09-03 12:29:02"
-  - title: "Everything you need to know about building the Integrated API-Driven Company
-      - at #APIWorld18 - in less than two we... https://t.co/rtaaDEnuwD"
-    url: https://twitter.com/APIWorld/status/1036655813367144448
-    time_stamp: "2018-09-03 09:43:00"
-  - title: "Join @kdaigle @GitHubAPI and his Open Talk Building and Scaling the GitHub
-      Platform at #APIWorld18 on 09/11 in Sa... https://t.co/1lUVLPq7c9"
-    url: https://twitter.com/APIWorld/status/1035726454536003584
-    time_stamp: "2018-08-31 20:10:04"
-  - title: "The nations largest API hackathon is back at #APIWorld18. Book your FREE
-      participant ticket now and join us in les... https://t.co/WXJaIfws9Q"
-    url: https://twitter.com/APIWorld/status/1035686209396383746
-    time_stamp: "2018-08-31 17:30:09"
-  - title: "Dont miss @wadefoster @zapier and his keynote Democratizing APIs: Why
-      #APIs Arent Just for Programmers on 09/12... https://t.co/vfam5D0Wgn"
-    url: https://twitter.com/APIWorld/status/1035641675987603456
-    time_stamp: "2018-08-31 14:33:11"
-  - title: "RT @AgoraIO: Wondering why your #App needs real-time communication? Our
-      Lead Developer Evangelist, @sidsharma_27,  has an answer for you! C..."
-    url: https://twitter.com/APIWorld/status/1035641348626440192
-    time_stamp: "2018-08-31 14:31:53"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
