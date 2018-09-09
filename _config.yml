@@ -7,7 +7,7 @@ philosophy: This is our project area for tracking on conferences and other event
   for interesting data, API, and other technical or business events, and if there
   is an event missing, please let us know.
 events:
-- organization_id: IYmrRpPE3JIEuUdlYV0iaT1fdDqLQi123qzWMrBMi0Tlo117
+- organization_id: ""
   name: ApacheCon
   description: ApacheCon is a conference about the Apache open source software and
     related technologies, run by the Apache Software Foundation. It has been in existence
@@ -233,7 +233,7 @@ events:
   latest_stack_exchange_searches: []
   tags:
   - SDIO Events
-- organization_id: qSrBNgGEiOcs4TWAMOTygzc116Zcm13lHrTJgE214cJdM117
+- organization_id: ""
   name: API City Conference
   description: |-
     API City Conference is a non-profit community event that brings together a diverse set of developers and business people to network and learn about APIs and the business value they can bring to you and your company. With a focus on diversity and accessibility, our 3 track conference creates an open event where everyone is welcome.
@@ -433,7 +433,7 @@ events:
   tags:
   - SDIO Events
   - API Events
-- organization_id: Z5OAvWTZF0yucfH4E5ueHEYTEPiq1Gx3OyemNwNJnFc117
+- organization_id: ""
   name: API Strategy & Practice
   description: |-
     API Strategy &amp; Practice is an industry conference providing a location for companies of all sizes to come together and tell stories of their API iniatives, in hopes of spreading the best practices across the space. API Strategy &amp; Practice is partnered with API Days and Nordic APIs, two other similiar events in the space.
@@ -661,7 +661,7 @@ events:
   - Conferences
   - API Service Provider
   - API Events
-- organization_id: v7EmAUFoSnyjgZCBnK123QmvxAy6Rp2r421160NcDDJy1Oc117
+- organization_id: ""
   name: APIWorld
   description: |-
     If you&rsquo;re a tech company, you are likely publishing or consuming API&rsquo;s already.&nbsp;API World is the first large-scale conference and expo with the goal of organizing this new API Economy. The API World 2018 Conference and Expo was created with the mission to be neutral and facilitate connections, knowledge, trust and business within the developer community of API providers and consumers. If you are a coder, a startup or an enterprise that consumes or provides multiple APIs this is your event.
@@ -682,6 +682,26 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Discover the strategies and tactics necessary to build an ecosystem around
+      your API, using PayPal's Merchant Integr... https://t.co/mdvkW8Qpbu"
+    url: https://twitter.com/APIWorld/status/1038509536921964544
+    time_stamp: "2018-09-08 12:29:02"
+  - title: "We're excited to welcome the leading location platform provider for
+      devs and sponsor @heredev at #APIWorld18. Get 2... https://t.co/BSlZGMcd7b"
+    url: https://twitter.com/APIWorld/status/1038467758776827905
+    time_stamp: "2018-09-08 09:43:02"
+  - title: "Join @tgreening at #APIWorld18 and learn about  the transformation of
+      @fords business and IT with APIs at the PRO... https://t.co/Boz0OaDtyo"
+    url: https://twitter.com/APIWorld/status/1038263172384387072
+    time_stamp: "2018-09-07 20:10:04"
+  - title: "Everything you need to know about The #API Management Market - in a keynote
+      by @iddogino (@rapid_api) at... https://t.co/bMXSwOiF70"
+    url: https://twitter.com/APIWorld/status/1038222946475683840
+    time_stamp: "2018-09-07 17:30:14"
+  - title: "RT @bjwtechie: Great news! @Esurance will demo their Roadside Rescue Service
+      @APIWorld #APIWorld18 in @Allstate Roadside Services Booth 109..."
+    url: https://twitter.com/APIWorld/status/1038205233808080897
+    time_stamp: "2018-09-07 16:19:51"
   - title: "Dont miss #APIWorld18 keynotes by @wadefoster (@zapier), @screaminggeek
       (@ebay), @iddogino (@rapid_api), @chdow (... https://t.co/PuNfHI2wxk"
     url: https://twitter.com/APIWorld/status/1038162644035821569
@@ -761,26 +781,6 @@ events:
       about the latest on #ServiceMesh and more at the #Microservices Confe..."
     url: https://twitter.com/APIWorld/status/1037053043798241280
     time_stamp: "2018-09-04 12:01:27"
-  - title: "RT @RogueWaveInc: Excited to be heading to #APIWorld18 next week!Drop
-      by booth 319 to talk with our experts about developing, managing, a..."
-    url: https://twitter.com/APIWorld/status/1037052995991556096
-    time_stamp: "2018-09-04 12:01:16"
-  - title: "RT @axiomatics: Gerry Gebel (@ggebel) and Jonas Iggbom (@iggbom) of @axiomatics
-      will present #API #Security: When #OAuth Is Not Enough at..."
-    url: https://twitter.com/APIWorld/status/1037052977809317888
-    time_stamp: "2018-09-04 12:01:12"
-  - title: "Have you heard? Enterprise-grade barcode scanning in a keyboard wedge
-      app! Check it out and leave the barcode scann... https://t.co/zGKOUYtg0t"
-    url: https://twitter.com/APIWorld/status/1037018200746151936
-    time_stamp: "2018-09-04 09:43:00"
-  - title: "RT @ForumSystems: Going to @apiworld next week? Be sure to catch our OPEN
-      TALK: Combine API and IAM into a Simplified and Secure Architectu..."
-    url: https://twitter.com/APIWorld/status/1037013975672573952
-    time_stamp: "2018-09-04 09:26:13"
-  - title: "RT @pingidentity: Great news! Ping Identity has been honored w/ the #APIWorld18
-      Award for Best in #APISecurity. Read on for details &amp; if..."
-    url: https://twitter.com/APIWorld/status/1037013934752989185
-    time_stamp: "2018-09-04 09:26:03"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
@@ -889,7 +889,7 @@ events:
   - Conferences
   - API Service Provider
   - API Events
-- organization_id: 0cgwYG7eSqTSTZHvwZSGdgZZV116BUAIYvO4liMjPpzy4117
+- organization_id: ""
   name: DreamForce
   description: 'The conference brings together 170,000+ members of our enthusiastic
     and evangelical customer base for a week of powerful sessions, amazing keynotes,
@@ -1116,7 +1116,7 @@ events:
   tags:
   - Tech Events
   - SDIO Events
-- organization_id: LsP116o1Td0TrY0cuKUwVD123MGMghslEDgBF1239FIYOLvVA117
+- organization_id: ""
   name: Kafka Summit
   description: As streaming platforms become central to data strategies, companies
     both small and large are re-thinking their architecture with real-time context
@@ -1257,7 +1257,7 @@ events:
   latest_stack_exchange_searches: []
   tags:
   - SDIO Events
-- organization_id: 3eNwXZKZKh1169ov7u123zNdEO116aBtw88BcCVCVEswl123MTY117
+- organization_id: ""
   name: Kong Summit
   description: Are you using or transitioning to a microservice architecture? Kong
     Summit 2018 will inspire attendees to engage with cloud-native, open-source projects
@@ -1387,7 +1387,7 @@ events:
   tags:
   - SDIO Events
   - API Events
-- organization_id: KyoLg123SmBL8BH123BvO2DpMWnx6116BSKvktrikvFzWHGRE117
+- organization_id: ""
   name: RestFest
   description: |-
     REST Fest is an unconference developed by Mike Amundsen and Benjamin Young. Our objective is to give people interested in REST, Hypermedia APIs, crafting web service APIs, or any related topics a chance to get together in an informal setting to share ideas, trade stories, and show examples of current work. REST Fest is a unique blend of presentations and collaborative unconference goodness. The keynote sits directly in the middle of the conference schedule with hackday, workshop, session, talks, and 5-in-5 lightening talks surrounding it.
@@ -1612,7 +1612,7 @@ events:
   tags:
   - SDIO Events
   - API Events
-- organization_id: qpcBJh6aR4qtAdiiPJ4U6jbWv5s1163RAmZCG6r4Vnp24117
+- organization_id: ""
   name: Tibco Now
   description: In the spirit of companies transitioning from digital transformation
     strategy to implementation, TIBCO NOW 2018 will focus on how businesses can continuously
@@ -1643,7 +1643,7 @@ events:
   latest_stack_exchange_searches: []
   tags:
   - SDIO Events
-- organization_id: ytStBc4Uv9g2e5rLpPCIcPmFuQbG116qkw211163yhDFgK4117
+- organization_id: ""
   name: Transforming Data With Intelligence (TDWI) Conference
   description: For 20 years, TDWI has been helping data professionals get smarter
     so the companies they work for can innovate and grow faster. TDWI provides individuals
