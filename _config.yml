@@ -682,6 +682,18 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Dont miss @rshriram @VMware and his PRO TALK: Don't Forget the Data
+      When Embarking on Your Journey to Service Mes... https://t.co/sfCaEjiXXI"
+    url: https://twitter.com/APIWorld/status/1038830147720368131
+    time_stamp: "2018-09-09 09:43:02"
+  - title: "Want to make great #APIs? Join the keynote by @a85 @postmanclient at #APIWorld18
+      on Sept 11. Book your ticket now.... https://t.co/kjXKkArhYb"
+    url: https://twitter.com/APIWorld/status/1038625548862414851
+    time_stamp: "2018-09-08 20:10:02"
+  - title: "Dont miss @screaminggeek (@ebay ) and her keynote Why Investing in API
+      Development Matters at #APIWorld18 on Sep... https://t.co/hgf0QoKWrY"
+    url: https://twitter.com/APIWorld/status/1038585296030457857
+    time_stamp: "2018-09-08 17:30:05"
   - title: "Discover the strategies and tactics necessary to build an ecosystem around
       your API, using PayPal's Merchant Integr... https://t.co/mdvkW8Qpbu"
     url: https://twitter.com/APIWorld/status/1038509536921964544
@@ -769,18 +781,6 @@ events:
       the top API experts in the space, next wee... https://t.co/RbXahBIrQg"
     url: https://twitter.com/APIWorld/status/1037175993453162496
     time_stamp: "2018-09-04 20:10:01"
-  - title: "Learn about Data Feed Model in the Age of APIs in a PRO Workshop by @latestFromTV
-      @ebay at #APIWorld18 on 09/10 i... https://t.co/1OpXRGZPvx"
-    url: https://twitter.com/APIWorld/status/1037135740176670721
-    time_stamp: "2018-09-04 17:30:04"
-  - title: "Were excited to have @TIBCO @jitterbit @accusoft @adobe @AgoraIO @awscloud
-      @CATechnologies @dzone @here @pubnub... https://t.co/PMHQ8XkPFe"
-    url: https://twitter.com/APIWorld/status/1037059988479463424
-    time_stamp: "2018-09-04 12:29:03"
-  - title: "RT @MattMcLartyBC: Less than a week until @APIWorld in San Jose! Hear
-      about the latest on #ServiceMesh and more at the #Microservices Confe..."
-    url: https://twitter.com/APIWorld/status/1037053043798241280
-    time_stamp: "2018-09-04 12:01:27"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
