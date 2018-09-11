@@ -453,6 +453,18 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "@deepbane @medjawii I think we are still relevant. Reviewing our speakers
+      list is a great way to discover up and co... https://t.co/yo2YvU08f6"
+    url: https://twitter.com/apistrat/status/1039580734564913153
+    time_stamp: "2018-09-11 11:25:36"
+  - title: "Want to meet others involved in the open #API community? Then dont miss
+      #APIStrat coming to Nashville from Septemb... https://t.co/EqUxyIaybL"
+    url: https://twitter.com/apistrat/status/1039576303794409472
+    time_stamp: "2018-09-11 11:07:59"
+  - title: "RT @OpenApiSpec: \U0001F6A8\_This Friday is the last day to get $200 off
+      your ticket to @apistrat. Get your ticket while its \U0001F525https://t.co/eb8waxriJ..."
+    url: https://twitter.com/apistrat/status/1039499526678228992
+    time_stamp: "2018-09-11 06:02:54"
   - title: "RT @chuckstar: Truly honored to join a wonderful range of speakers and
       present a brand new talk Approaching APIs More Creatively Through M..."
     url: https://twitter.com/apistrat/status/1039189698894282752
@@ -540,18 +552,6 @@ events:
       Muller of @AspectSoftware at APISTRAT in... https://t.co/82kl1eKpkW"
     url: https://twitter.com/apistrat/status/1034546304033140737
     time_stamp: "2018-08-28 14:00:34"
-  - title: ".@GraphQL, @kubernetesio and #microservices are just a few topics that
-      will be covered during #APIStrat. Come join... https://t.co/HXSJAx728D"
-    url: https://twitter.com/apistrat/status/1034502364261171200
-    time_stamp: "2018-08-28 11:05:58"
-  - title: "Join us at APISTART for #Microserviceing Like a Unicorn With #Envoy, #Istio
-      and #Kubernetes with @christianposta... https://t.co/vMnUxPhMC5"
-    url: https://twitter.com/apistrat/status/1034500984301596672
-    time_stamp: "2018-08-28 11:00:29"
-  - title: 'Join us at APISTART for #API Design Lessons From #Kubernetes with James
-      Bowes of @manifoldco | https://t.co/RQcMAYasb3'
-    url: https://twitter.com/apistrat/status/1034493444322942976
-    time_stamp: "2018-08-28 10:30:31"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
