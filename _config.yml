@@ -682,6 +682,41 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "AND THATS A WRAP! \U0001F973 Thanks to all the speakers, attendees, sponsors,
+      volunteers and supporters for making... https://t.co/ZFd96iCazf"
+    url: https://twitter.com/APIWorld/status/1040064360972861440
+    time_stamp: "2018-09-12 19:27:21"
+  - title: "RT @CraftPlusTech: Interesting to see why people choose to uses API, API
+      creation process, &amp; how #ColdFusion can help (yellow arc below sho..."
+    url: https://twitter.com/APIWorld/status/1040038934623870976
+    time_stamp: "2018-09-12 17:46:19"
+  - title: 70% of success is showing up! - Woody Allen :) https://t.co/bLnVVGrQkP
+    url: https://twitter.com/APIWorld/status/1040038783335448576
+    time_stamp: "2018-09-12 17:45:43"
+  - title: "RT @sartin_shannon: Our @ktinboulder shares Blue Button 2.0 at #APIWorld18.
+      Join @USDS and @CMSGov in building the next generation of inter..."
+    url: https://twitter.com/APIWorld/status/1040038472008884225
+    time_stamp: "2018-09-12 17:44:29"
+  - title: 'RT @LiTesler: @iddogino CEO and co-founder @rapid_api giving the closing
+      keynote @APIWorld #APIWorld18 https://t.co/oDEcz8ULha'
+    url: https://twitter.com/APIWorld/status/1040038139652259841
+    time_stamp: "2018-09-12 17:43:10"
+  - title: "RT @mikegstowe: Honored to have had the chance to judge this year's
+      Hackathon at @APIWorld!  Amazing tech, amazing innovations. No matter i..."
+    url: https://twitter.com/APIWorld/status/1040038052742160386
+    time_stamp: "2018-09-12 17:42:49"
+  - title: "RT @mysmartcar: We just had a fun live demo of the Smartcar tech at @APIWorld!
+      CTO, @sankethkatta took 10 minutes to build an app on Smartc..."
+    url: https://twitter.com/APIWorld/status/1040037905702445057
+    time_stamp: "2018-09-12 17:42:14"
+  - title: "RT @UkRobJones: Delivering a first-class #OpenAPI experience for #IBMZ
+      applications and data at @APIWorld with @HaleyFung #APIWORLD18 https..."
+    url: https://twitter.com/APIWorld/status/1040037827755487233
+    time_stamp: "2018-09-12 17:41:55"
+  - title: "RT @CraftPlusTech: Great to hear from @a85 about what makes great API
+      - if there is one person who know this, it would be the CEO of @postm..."
+    url: https://twitter.com/APIWorld/status/1040037726983094272
+    time_stamp: "2018-09-12 17:41:31"
   - title: "RT @contentful: Thank you for joining @ShyRuparels talk in such high numbers
       #APIWorld18. If you want to have a second look at the slides,..."
     url: https://twitter.com/APIWorld/status/1039978779488075777
@@ -745,42 +780,6 @@ events:
       be Unlocking your Car (and more!) with the Smartcar API at API..."
     url: https://twitter.com/APIWorld/status/1039947366885801984
     time_stamp: "2018-09-12 11:42:28"
-  - title: "RT @nylas: Good morning @APIWorld! Grab a coffee and come hear @E0Ms talk
-      on building an API that syncs data from 3.9 billion inboxes in t..."
-    url: https://twitter.com/APIWorld/status/1039918490814042112
-    time_stamp: "2018-09-12 09:47:43"
-  - title: "RT @AutodeskForge: .@micbeale is at booth 212 at #APIWorld18 - stop by
-      to check out @Autodesk #Forge #AR demos using @HoloLens. Have a grea..."
-    url: https://twitter.com/APIWorld/status/1039918337986154497
-    time_stamp: "2018-09-12 09:47:07"
-  - title: "RT @mysmartcar: Were excited to have our CTO @sankethkatta speaking @APIWorld
-      today! Come by for a live demo on a #tesla at 2PM today! #AP..."
-    url: https://twitter.com/APIWorld/status/1039918268654313473
-    time_stamp: "2018-09-12 09:46:50"
-  - title: "RT @contentful: Good morning, folks! Dont forget to join @ShyRuparel at
-      11AM, on Stage 1 for this talk on Dynamic Static Sites at #APIWo..."
-    url: https://twitter.com/APIWorld/status/1039918247687012352
-    time_stamp: "2018-09-12 09:46:45"
-  - title: "Did you have fun at #APIWorld18 Day 2? \U0001F64B\u200D\u2640\uFE0FPlease
-      RT and tag your friends in photos on our Facebook page &gt;&gt;... https://t.co/7aguLQaDKp"
-    url: https://twitter.com/APIWorld/status/1039745774022742016
-    time_stamp: "2018-09-11 22:21:24"
-  - title: "RT @bjwtechie: The entire @Allstate Roadside Team is at booth 109 at the
-      same time @APIWorld #APIWorld2018  @hanuma1278, Z, Dan, @bjwtechie..."
-    url: https://twitter.com/APIWorld/status/1039737914694033408
-    time_stamp: "2018-09-11 21:50:10"
-  - title: "RT @bjwtechie: @APIWorld  #APIWorld18 Day-1 is over. The demo was a smash
-      hit! Big shout out to @Allstate Roadside Services UX team (Sarah)..."
-    url: https://twitter.com/APIWorld/status/1039737756015054848
-    time_stamp: "2018-09-11 21:49:33"
-  - title: 'RT @BigstickCarpet: Another great day at @APIWorld. Good to see so many
-      familiar faces#APIWORLD18 https://t.co/C0e764nskc'
-    url: https://twitter.com/APIWorld/status/1039737687585026048
-    time_stamp: "2018-09-11 21:49:16"
-  - title: "RT @Synerzip: Meet #Synerzip executives at #APIWorld18 and discuss about
-      #SoftwareProduct Development #Blockchain #BigData #AI #DevOps #API..."
-    url: https://twitter.com/APIWorld/status/1039737584438657024
-    time_stamp: "2018-09-11 21:48:52"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
