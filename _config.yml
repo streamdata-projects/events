@@ -682,6 +682,10 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "@raphaelwcosta Hi Raphael. Please clarify what type of certificate you're
+      looking for and our team will reply."
+    url: https://twitter.com/APIWorld/status/1040704018207535104
+    time_stamp: "2018-09-14 13:49:07"
   - title: "AND THATS A WRAP! \U0001F973 Thanks to all the speakers, attendees, sponsors,
       volunteers and supporters for making... https://t.co/ZFd96iCazf"
     url: https://twitter.com/APIWorld/status/1040064360972861440
@@ -776,10 +780,6 @@ events:
       us at booth 314 to find out how @zoho and APIs go well together...."
     url: https://twitter.com/APIWorld/status/1039947403086843904
     time_stamp: "2018-09-12 11:42:36"
-  - title: "RT @mysmartcar: Were so excited to be a featured talk at @APIWorld! Well
-      be Unlocking your Car (and more!) with the Smartcar API at API..."
-    url: https://twitter.com/APIWorld/status/1039947366885801984
-    time_stamp: "2018-09-12 11:42:28"
   latest_twitter_search:
   - title: "RT @axiomatics: .@ggebel and @iggbom of Axiomatics will give a presentation
       at this year's @APIWorld in San Jose, CA. Their presentation, ..."
