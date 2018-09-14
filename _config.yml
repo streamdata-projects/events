@@ -453,6 +453,14 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: 'RT @Joyce_Stack: Ill be @apistrat in a few weeks and Id love to talk to
+      peeps about search APIs in particular searching linked datasets.'
+    url: https://twitter.com/apistrat/status/1040599124213686274
+    time_stamp: "2018-09-14 06:52:19"
+  - title: "RT @OpenApiSpec: \U0001F6A8 LAST CHANCE! @apistrat registration prices
+      increase today. Register now and save $200 https://t.co/eb8waxriJ2 https://t...."
+    url: https://twitter.com/apistrat/status/1040598981376700417
+    time_stamp: "2018-09-14 06:51:45"
   - title: "@deepbane @medjawii I think we are still relevant. Reviewing our speakers
       list is a great way to discover up and co... https://t.co/yo2YvU08f6"
     url: https://twitter.com/apistrat/status/1039580734564913153
@@ -544,14 +552,6 @@ events:
       together with @CapitalOneDevEx of Nashville... https://t.co/NjvFZ69r9B"
     url: https://twitter.com/apistrat/status/1034640526123786240
     time_stamp: "2018-08-28 20:14:58"
-  - title: "Come and be a part of The Part They Do Not Tell You About #Microservices
-      with Muktesh Mishra of @CapitalOneDevEx at... https://t.co/8gN0B3Bxej"
-    url: https://twitter.com/apistrat/status/1034553825284317188
-    time_stamp: "2018-08-28 14:30:27"
-  - title: "Come and be a part of Hack Your Way to Improved #API Usability with Rachel
-      Muller of @AspectSoftware at APISTRAT in... https://t.co/82kl1eKpkW"
-    url: https://twitter.com/apistrat/status/1034546304033140737
-    time_stamp: "2018-08-28 14:00:34"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
