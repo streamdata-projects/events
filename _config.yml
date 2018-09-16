@@ -453,6 +453,18 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: 'RT @emckean: Need more info before you register for @apistrat? This blog
+      post has it all: https://t.co/FLeD5ptppQ'
+    url: https://twitter.com/apistrat/status/1041347935932276736
+    time_stamp: "2018-09-16 08:27:49"
+  - title: 'RT @njyx: Top reasons to attend @apistrat this year! https://t.co/Juhk7nG2hn
+      #apis #success #nashville #technology'
+    url: https://twitter.com/apistrat/status/1041347916697202690
+    time_stamp: "2018-09-16 08:27:45"
+  - title: '@timburks @MylesBorins Any tourist tips @MylesBorins for those of us flying
+      in next week?'
+    url: https://twitter.com/apistrat/status/1041347727525703680
+    time_stamp: "2018-09-16 08:27:00"
   - title: 'RT @Joyce_Stack: Ill be @apistrat in a few weeks and Id love to talk to
       peeps about search APIs in particular searching linked datasets.'
     url: https://twitter.com/apistrat/status/1040599124213686274
@@ -540,18 +552,6 @@ events:
       from @medjawii  @CAinc | https://t.co/qV1E775qvj
     url: https://twitter.com/apistrat/status/1034810520124178434
     time_stamp: "2018-08-29 07:30:28"
-  - title: 'Join @SkipHovsmith of @critblue at @APISTRAT for A Tour of Mobile #API
-      Protection | https://t.co/PlY9o63qkC'
-    url: https://twitter.com/apistrat/status/1034772785858527233
-    time_stamp: "2018-08-29 05:00:31"
-  - title: "Get the latest on Describing and Understanding APIs at APISTART in Nashville
-      Sept. 24-26 from James Bowes of... https://t.co/Mjz8uyvjgH"
-    url: https://twitter.com/apistrat/status/1034757670564229120
-    time_stamp: "2018-08-29 04:00:28"
-  - title: "@chuckstar That is exactly right. Check out our Playlist we are putting
-      together with @CapitalOneDevEx of Nashville... https://t.co/NjvFZ69r9B"
-    url: https://twitter.com/apistrat/status/1034640526123786240
-    time_stamp: "2018-08-28 20:14:58"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
