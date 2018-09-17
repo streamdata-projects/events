@@ -453,6 +453,10 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @OpenApiSpec: .@apistrat is happening next week in Nashville \U0001F389
+      We shared our top reasons to attend the event here https://t.co/2tokjOh4v..."
+    url: https://twitter.com/apistrat/status/1041670573032701952
+    time_stamp: "2018-09-17 05:49:52"
   - title: 'RT @emckean: Need more info before you register for @apistrat? This blog
       post has it all: https://t.co/FLeD5ptppQ'
     url: https://twitter.com/apistrat/status/1041347935932276736
@@ -548,10 +552,6 @@ events:
       of @42Crunch | https://t.co/OstuuO9L08'
     url: https://twitter.com/apistrat/status/1034833181839695873
     time_stamp: "2018-08-29 09:00:31"
-  - title: Get the latest on OAI and OAI Tools at APISTART in Nashville Sept. 24-26
-      from @medjawii  @CAinc | https://t.co/qV1E775qvj
-    url: https://twitter.com/apistrat/status/1034810520124178434
-    time_stamp: "2018-08-29 07:30:28"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
