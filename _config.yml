@@ -453,6 +453,33 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @wso2: Heading to @apistrat this month? Talk to us. Well introduce
+      our new cell based architecture which is API-centric, cloud native..."
+    url: https://twitter.com/apistrat/status/1042106273020370944
+    time_stamp: "2018-09-18 10:41:11"
+  - title: "Well be hosting a fun run on Wednesday, September 26. Come join us for
+      a run, jog, slow walk through Nashville! Re... https://t.co/9mHkqvgxYN"
+    url: https://twitter.com/apistrat/status/1042082659747409926
+    time_stamp: "2018-09-18 09:07:21"
+  - title: "RT @OpenApiSpec: Tickets \U0001F39F are still available for @apistrat
+      happening next week! If you want a better understanding of best practices and..."
+    url: https://twitter.com/apistrat/status/1042060461443895297
+    time_stamp: "2018-09-18 07:39:09"
+  - title: "Learn more about Blue Button - a standards-based #API that enables #Medicare
+      beneficiaries to connect their claims... https://t.co/tE35GOlQso"
+    url: https://twitter.com/apistrat/status/1042008582655553541
+    time_stamp: "2018-09-18 04:13:00"
+  - title: "RT @ElijahInTech: Its finally here! SAP Cloud Platform Open Connectors
+      is Live accelerating third-party connectivity from #SAP out of the..."
+    url: https://twitter.com/apistrat/status/1041937954371817472
+    time_stamp: "2018-09-17 23:32:21"
+  - title: "RT @OpenApiSpec: .@apistrat is happening next week in Nashville \U0001F389
+      We shared our top reasons to attend the event here https://t.co/2tokjOh4v..."
+    url: https://twitter.com/apistrat/status/1041813371392147456
+    time_stamp: "2018-09-17 15:17:18"
+  - title: 'Join us next week on the latest in #APIs and #HealthIT at #APIStrat https://t.co/6UjErp182Y'
+    url: https://twitter.com/apistrat/status/1041806130941329408
+    time_stamp: "2018-09-17 14:48:32"
   - title: "RT @OpenApiSpec: .@apistrat is happening next week in Nashville \U0001F389
       We shared our top reasons to attend the event here https://t.co/2tokjOh4v..."
     url: https://twitter.com/apistrat/status/1041670573032701952
@@ -525,33 +552,6 @@ events:
       Ecosystem with @nanovazquez87 of... https://t.co/KwjPBOT3Hh"
     url: https://twitter.com/apistrat/status/1035271067911241738
     time_stamp: "2018-08-30 14:00:31"
-  - title: "Join @pmcray of @APImetricStats at @APISTRAT for Smart Service Level Objectives
-      and Key Performance Indicators for... https://t.co/n01isu3Pem"
-    url: https://twitter.com/apistrat/status/1034923772611112960
-    time_stamp: "2018-08-29 15:00:30"
-  - title: "Come and be a part of The Young and the #RESTless with @gkoberger of @readmeio
-      at APISTRAT in Nashville on Sept 24-... https://t.co/QlXYrA7TmG"
-    url: https://twitter.com/apistrat/status/1034916225762119680
-    time_stamp: "2018-08-29 14:30:30"
-  - title: "Come and be a part of How the Standardization of #OASv3 Refactored a Government
-      with @dvh of @apiwise at APISTRAT i... https://t.co/o7UiDHvI8M"
-    url: https://twitter.com/apistrat/status/1034908685120745475
-    time_stamp: "2018-08-29 14:00:32"
-  - title: Join @bengreen of @Comcast on Sept 24-26 in Nashville for APISTRAT | https://t.co/oeMivVHjgT
-    url: https://twitter.com/apistrat/status/1034863378806841345
-    time_stamp: "2018-08-29 11:00:30"
-  - title: "Join us at the APISTART Keynote: Tech Humanism: Integration, Automation,
-      and the Future of Human Experience with Ka... https://t.co/58NKhYWrjk"
-    url: https://twitter.com/apistrat/status/1034848293937995781
-    time_stamp: "2018-08-29 10:00:34"
-  - title: Join James Bowes of @manifoldco on Sept 24-26 in Nashville for APISTRAT
-      | https://t.co/RQcMAYasb3
-    url: https://twitter.com/apistrat/status/1034840718676770819
-    time_stamp: "2018-08-29 09:30:28"
-  - title: 'Join us at APISTART for Practical #SecDevOps for #APIs with @isamauny
-      of @42Crunch | https://t.co/OstuuO9L08'
-    url: https://twitter.com/apistrat/status/1034833181839695873
-    time_stamp: "2018-08-29 09:00:31"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
