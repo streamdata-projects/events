@@ -453,6 +453,14 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Tickets are still available for #APIStrat happening next week! If you
+      want a better understanding of best practices... https://t.co/57h2QoZZNg"
+    url: https://twitter.com/apistrat/status/1042508809648959488
+    time_stamp: "2018-09-19 13:20:43"
+  - title: "\U0001F6A8 APIStrat kicks off next Monday in Nashville! Be sure to get
+      your ticket before its too late! Details and registr... https://t.co/PHXOxgXbQW"
+    url: https://twitter.com/apistrat/status/1042403418210480128
+    time_stamp: "2018-09-19 06:21:56"
   - title: "RT @wso2: Heading to @apistrat this month? Talk to us. Well introduce
       our new cell based architecture which is API-centric, cloud native..."
     url: https://twitter.com/apistrat/status/1042106273020370944
@@ -544,14 +552,6 @@ events:
       of @apistrat in Nashville next month - https://t.co/ZFHrdng1w..."
     url: https://twitter.com/apistrat/status/1035569689286438912
     time_stamp: "2018-08-31 09:47:08"
-  - title: "Come and be a part of Transforming Integration Projects into #API Products
-      in the #Healthcare Enterprise with Shelb... https://t.co/q6wKlGN6H0"
-    url: https://twitter.com/apistrat/status/1035278602600960000
-    time_stamp: "2018-08-30 14:30:28"
-  - title: "Come and be a part of How to Build the Status #APIs of Your #Microservices
-      Ecosystem with @nanovazquez87 of... https://t.co/KwjPBOT3Hh"
-    url: https://twitter.com/apistrat/status/1035271067911241738
-    time_stamp: "2018-08-30 14:00:31"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
