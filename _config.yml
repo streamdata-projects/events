@@ -453,6 +453,10 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "Join @PetuniaGray at #APIStrat and get insights learned from developing
+      at @postmanclient - an API Development Envi... https://t.co/PNI0qit1Rj"
+    url: https://twitter.com/apistrat/status/1043167867364143104
+    time_stamp: "2018-09-21 08:59:35"
   - title: "Tickets are still available for #APIStrat happening next week! If you
       want a better understanding of best practices... https://t.co/57h2QoZZNg"
     url: https://twitter.com/apistrat/status/1042508809648959488
@@ -548,10 +552,6 @@ events:
       deliver high-quality #SDKs and documentation... https://t.co/Fy0PC8IFow"
     url: https://twitter.com/apistrat/status/1037109556063563776
     time_stamp: "2018-09-04 15:46:01"
-  - title: "RT @apievangelist: Thank you to @RedHat and @WSO2 for being PLATINUM sponsors
-      of @apistrat in Nashville next month - https://t.co/ZFHrdng1w..."
-    url: https://twitter.com/apistrat/status/1035569689286438912
-    time_stamp: "2018-08-31 09:47:08"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
