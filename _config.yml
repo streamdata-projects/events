@@ -453,6 +453,81 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: "RT @StreamdataIO: Today starts @apistrat and we are excited that our colleague
+      @Kinlane is giving multiple sessions including Tuesday at 10..."
+    url: https://twitter.com/apistrat/status/1044297855517655040
+    time_stamp: "2018-09-24 11:49:45"
+  - title: "RT @asmaasasad: HR handed us these cute stickers! \U0001F604 All those
+      attending @apistrat in Nashville, find @Mnaumanali94 if you want one! #Monday..."
+    url: https://twitter.com/apistrat/status/1044294627522633728
+    time_stamp: "2018-09-24 11:36:55"
+  - title: '@picsoung The e stands for ellipsis'
+    url: https://twitter.com/apistrat/status/1044293771733520384
+    time_stamp: "2018-09-24 11:33:31"
+  - title: 'RT @wso2: @apistrat Were excited to be a part of this event too and talk
+      about our cell based architecture.'
+    url: https://twitter.com/apistrat/status/1044293184270921728
+    time_stamp: "2018-09-24 11:31:11"
+  - title: "RT @TheFranc: The annual #API Strategy &amp; Practice conference @APIstrat
+      begins today in Nashville TN. API programming is the glue for digita..."
+    url: https://twitter.com/apistrat/status/1044292890921394176
+    time_stamp: "2018-09-24 11:30:01"
+  - title: "RT @hibaymj: To all my friends and friends to be making their way to @apistrat
+      and @restfest this week have FUN!If you aren't going yet a..."
+    url: https://twitter.com/apistrat/status/1044286772669165568
+    time_stamp: "2018-09-24 11:05:43"
+  - title: 'RT @hocking_katie: Looking forward to seeing @sachinag talk about Taming
+      Your API @apistrat #apistrat #productmanagement'
+    url: https://twitter.com/apistrat/status/1044286588492996608
+    time_stamp: "2018-09-24 11:04:59"
+  - title: 'Thank you to @postmanclient for being a Bronze Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044285339093819392
+    time_stamp: "2018-09-24 11:00:01"
+  - title: "APIStrat is finally here! For those getting dropped off look for the Marty
+      Dickens Terrace and follow the signs to... https://t.co/l1JRY0KXsn"
+    url: https://twitter.com/apistrat/status/1044281919817412608
+    time_stamp: "2018-09-24 10:46:26"
+  - title: "Headed to APIStrat? the best entrance is at the Marty Dickens Terrace.
+      Youll see Fla-api waving her arms to guid... https://t.co/T5HAMzk5k7"
+    url: https://twitter.com/apistrat/status/1044280936681005056
+    time_stamp: "2018-09-24 10:42:31"
+  - title: 'Thank you to @RepreZen_API for being a Bronze Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044277788050513921
+    time_stamp: "2018-09-24 10:30:01"
+  - title: APIStrat 2018 is finally here! Follow the signs to the Davidson Ballroom
+      in the Music City Center!
+    url: https://twitter.com/apistrat/status/1044277597431947264
+    time_stamp: "2018-09-24 10:29:15"
+  - title: 'Thank you to @Microsoft for being a Bronze Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044270237359767552
+    time_stamp: "2018-09-24 10:00:00"
+  - title: 'Thank you to @42crunch for being a Bronze Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044262687490945024
+    time_stamp: "2018-09-24 09:30:00"
+  - title: 'Thank you to @apifortress for being a Bronze Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044255145561853954
+    time_stamp: "2018-09-24 09:00:02"
+  - title: 'Thank you to @Oracle for being a Silver Sponsor of #APIStrat, taking place
+      this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044247586004131843
+    time_stamp: "2018-09-24 08:30:00"
+  - title: 'Thank you to @googlecloud for being a Gold Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044240041172582401
+    time_stamp: "2018-09-24 08:00:01"
+  - title: 'Thank you to @RedHat for being a Platinum Sponsor of #APIStrat, taking
+      place this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044232498559893504
+    time_stamp: "2018-09-24 07:30:03"
+  - title: 'Thank you to @wso2 for being a Platinum Sponsor of #APIStrat, taking place
+      this week in #Nashville!'
+    url: https://twitter.com/apistrat/status/1044224936724828161
+    time_stamp: "2018-09-24 07:00:00"
   - title: "Wanted to share a sneak-peak pic of all the fun well be having next week
       at #apistrat! Register today and join t... https://t.co/7AeLapV0os"
     url: https://twitter.com/apistrat/status/1043264282220101632
@@ -477,81 +552,6 @@ events:
       your ticket before its too late! Details and registr... https://t.co/PHXOxgXbQW"
     url: https://twitter.com/apistrat/status/1042403418210480128
     time_stamp: "2018-09-19 06:21:56"
-  - title: "RT @wso2: Heading to @apistrat this month? Talk to us. Well introduce
-      our new cell based architecture which is API-centric, cloud native..."
-    url: https://twitter.com/apistrat/status/1042106273020370944
-    time_stamp: "2018-09-18 10:41:11"
-  - title: "Well be hosting a fun run on Wednesday, September 26. Come join us for
-      a run, jog, slow walk through Nashville! Re... https://t.co/9mHkqvgxYN"
-    url: https://twitter.com/apistrat/status/1042082659747409926
-    time_stamp: "2018-09-18 09:07:21"
-  - title: "RT @OpenApiSpec: Tickets \U0001F39F are still available for @apistrat
-      happening next week! If you want a better understanding of best practices and..."
-    url: https://twitter.com/apistrat/status/1042060461443895297
-    time_stamp: "2018-09-18 07:39:09"
-  - title: "Learn more about Blue Button - a standards-based #API that enables #Medicare
-      beneficiaries to connect their claims... https://t.co/tE35GOlQso"
-    url: https://twitter.com/apistrat/status/1042008582655553541
-    time_stamp: "2018-09-18 04:13:00"
-  - title: "RT @ElijahInTech: Its finally here! SAP Cloud Platform Open Connectors
-      is Live accelerating third-party connectivity from #SAP out of the..."
-    url: https://twitter.com/apistrat/status/1041937954371817472
-    time_stamp: "2018-09-17 23:32:21"
-  - title: "RT @OpenApiSpec: .@apistrat is happening next week in Nashville \U0001F389
-      We shared our top reasons to attend the event here https://t.co/2tokjOh4v..."
-    url: https://twitter.com/apistrat/status/1041813371392147456
-    time_stamp: "2018-09-17 15:17:18"
-  - title: 'Join us next week on the latest in #APIs and #HealthIT at #APIStrat https://t.co/6UjErp182Y'
-    url: https://twitter.com/apistrat/status/1041806130941329408
-    time_stamp: "2018-09-17 14:48:32"
-  - title: "RT @OpenApiSpec: .@apistrat is happening next week in Nashville \U0001F389
-      We shared our top reasons to attend the event here https://t.co/2tokjOh4v..."
-    url: https://twitter.com/apistrat/status/1041670573032701952
-    time_stamp: "2018-09-17 05:49:52"
-  - title: 'RT @emckean: Need more info before you register for @apistrat? This blog
-      post has it all: https://t.co/FLeD5ptppQ'
-    url: https://twitter.com/apistrat/status/1041347935932276736
-    time_stamp: "2018-09-16 08:27:49"
-  - title: 'RT @njyx: Top reasons to attend @apistrat this year! https://t.co/Juhk7nG2hn
-      #apis #success #nashville #technology'
-    url: https://twitter.com/apistrat/status/1041347916697202690
-    time_stamp: "2018-09-16 08:27:45"
-  - title: '@timburks @MylesBorins Any tourist tips @MylesBorins for those of us flying
-      in next week?'
-    url: https://twitter.com/apistrat/status/1041347727525703680
-    time_stamp: "2018-09-16 08:27:00"
-  - title: 'RT @Joyce_Stack: Ill be @apistrat in a few weeks and Id love to talk to
-      peeps about search APIs in particular searching linked datasets.'
-    url: https://twitter.com/apistrat/status/1040599124213686274
-    time_stamp: "2018-09-14 06:52:19"
-  - title: "RT @OpenApiSpec: \U0001F6A8 LAST CHANCE! @apistrat registration prices
-      increase today. Register now and save $200 https://t.co/eb8waxriJ2 https://t...."
-    url: https://twitter.com/apistrat/status/1040598981376700417
-    time_stamp: "2018-09-14 06:51:45"
-  - title: "@deepbane @medjawii I think we are still relevant. Reviewing our speakers
-      list is a great way to discover up and co... https://t.co/yo2YvU08f6"
-    url: https://twitter.com/apistrat/status/1039580734564913153
-    time_stamp: "2018-09-11 11:25:36"
-  - title: "Want to meet others involved in the open #API community? Then dont miss
-      #APIStrat coming to Nashville from Septemb... https://t.co/EqUxyIaybL"
-    url: https://twitter.com/apistrat/status/1039576303794409472
-    time_stamp: "2018-09-11 11:07:59"
-  - title: "RT @OpenApiSpec: \U0001F6A8\_This Friday is the last day to get $200 off
-      your ticket to @apistrat. Get your ticket while its \U0001F525https://t.co/eb8waxriJ..."
-    url: https://twitter.com/apistrat/status/1039499526678228992
-    time_stamp: "2018-09-11 06:02:54"
-  - title: "RT @chuckstar: Truly honored to join a wonderful range of speakers and
-      present a brand new talk Approaching APIs More Creatively Through M..."
-    url: https://twitter.com/apistrat/status/1039189698894282752
-    time_stamp: "2018-09-10 09:31:46"
-  - title: "RT @emckean: want to go to @apistrat but need to make a business case
-      for it? Check out this handy letter template that will *definitely* c..."
-    url: https://twitter.com/apistrat/status/1039188999770914821
-    time_stamp: "2018-09-10 09:28:59"
-  - title: "RT @Joyce_Stack: Making the most of my #apistrat @apistrat trip and heading
-      out a week earlier. Going to drive to Memphis. Any travel tips..."
-    url: https://twitter.com/apistrat/status/1039188640281317377
-    time_stamp: "2018-09-10 09:27:33"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
