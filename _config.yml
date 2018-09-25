@@ -453,6 +453,43 @@ events:
   image_width: "150"
   latest_blog: []
   latest_tweets:
+  - title: 'Will you be at #APIStrat today? Be sure to visit the @RedHat booth and
+      thank them for their sponsorship!'
+    url: https://twitter.com/apistrat/status/1044564675231272960
+    time_stamp: "2018-09-25 05:30:00"
+  - title: 'Will you be at #APIStrat today? Be sure to visit the @wso2 booth and thank
+      them for their sponsorship!'
+    url: https://twitter.com/apistrat/status/1044557135260995590
+    time_stamp: "2018-09-25 05:00:02"
+  - title: "Day one is behind us. Cant wait for what Tuesday has in store! Stop by
+      the OAI booth at @APIStrat: share your OAS... https://t.co/9qMuyhramL"
+    url: https://twitter.com/apistrat/status/1044499747292164101
+    time_stamp: "2018-09-25 01:12:00"
+  - title: "RT @veeratcisco: Had a great hands-on workshop session on API security
+      at @apistrat continue your learning on @CiscoDevNet https://t.co/lnh..."
+    url: https://twitter.com/apistrat/status/1044373426784231424
+    time_stamp: "2018-09-24 16:50:03"
+  - title: 'RT @apihandyman: When you organize a conference in Nashville its mandatory
+      to have musicians #APIStrat https://t.co/bJ8DtLTqbD'
+    url: https://twitter.com/apistrat/status/1044371193980055552
+    time_stamp: "2018-09-24 16:41:10"
+  - title: "RT @ramsey: Hey, #apistrat! Welcome to Nashville. I hope y'all have
+      a great time in our city, and be sure to try some #hotchicken while you..."
+    url: https://twitter.com/apistrat/status/1044371062375337985
+    time_stamp: "2018-09-24 16:40:39"
+  - title: 'RT @authlete: We arrived at Nashville! See you at our booth! #apistrat
+      #authlete https://t.co/N2HfmW6SK1'
+    url: https://twitter.com/apistrat/status/1044371011557191680
+    time_stamp: "2018-09-24 16:40:27"
+  - title: "RT @davidjustice: We care about pronouns and Let fellow
+      attendees know your interaction preference. I'm impressed with the
+      thoughtfulne..."
+    url: https://twitter.com/apistrat/status/1044370614255968256
+    time_stamp: "2018-09-24 16:38:52"
+  - title: "RT @picsoung: Alright #apistrat folks, first bar of the night The
+      stage on broadway we are on the rooftop patio. Join us for some drinks..."
+    url: https://twitter.com/apistrat/status/1044370402426814464
+    time_stamp: "2018-09-24 16:38:02"
   - title: "RT @StreamdataIO: Today starts @apistrat and we are excited that our colleague
       @Kinlane is giving multiple sessions including Tuesday at 10..."
     url: https://twitter.com/apistrat/status/1044297855517655040
@@ -516,42 +553,6 @@ events:
       this week in #Nashville!'
     url: https://twitter.com/apistrat/status/1044247586004131843
     time_stamp: "2018-09-24 08:30:00"
-  - title: 'Thank you to @googlecloud for being a Gold Sponsor of #APIStrat, taking
-      place this week in #Nashville!'
-    url: https://twitter.com/apistrat/status/1044240041172582401
-    time_stamp: "2018-09-24 08:00:01"
-  - title: 'Thank you to @RedHat for being a Platinum Sponsor of #APIStrat, taking
-      place this week in #Nashville!'
-    url: https://twitter.com/apistrat/status/1044232498559893504
-    time_stamp: "2018-09-24 07:30:03"
-  - title: 'Thank you to @wso2 for being a Platinum Sponsor of #APIStrat, taking place
-      this week in #Nashville!'
-    url: https://twitter.com/apistrat/status/1044224936724828161
-    time_stamp: "2018-09-24 07:00:00"
-  - title: "Wanted to share a sneak-peak pic of all the fun well be having next week
-      at #apistrat! Register today and join t... https://t.co/7AeLapV0os"
-    url: https://twitter.com/apistrat/status/1043264282220101632
-    time_stamp: "2018-09-21 15:22:42"
-  - title: "Join us on Monday for the start of APIStrat 2018 in #Nashville Get the
-      latest updates on #OASv3... https://t.co/e1lzcu6ue1"
-    url: https://twitter.com/apistrat/status/1043248616113025025
-    time_stamp: "2018-09-21 14:20:27"
-  - title: "RT @OpenApiSpec: Wanted to share sneak-peak pic of the fun well be having
-      next week at #apistrat. Register today and join the chorus of..."
-    url: https://twitter.com/apistrat/status/1043247757383753728
-    time_stamp: "2018-09-21 14:17:02"
-  - title: "Join @PetuniaGray at #APIStrat and get insights learned from developing
-      at @postmanclient - an API Development Envi... https://t.co/PNI0qit1Rj"
-    url: https://twitter.com/apistrat/status/1043167867364143104
-    time_stamp: "2018-09-21 08:59:35"
-  - title: "Tickets are still available for #APIStrat happening next week! If you
-      want a better understanding of best practices... https://t.co/57h2QoZZNg"
-    url: https://twitter.com/apistrat/status/1042508809648959488
-    time_stamp: "2018-09-19 13:20:43"
-  - title: "\U0001F6A8 APIStrat kicks off next Monday in Nashville! Be sure to get
-      your ticket before its too late! Details and registr... https://t.co/PHXOxgXbQW"
-    url: https://twitter.com/apistrat/status/1042403418210480128
-    time_stamp: "2018-09-19 06:21:56"
   latest_twitter_search:
   - title: Join Kate ONeill @kateo on Sept 24-26 in Nashville for APISTRAT | https://t.co/pHN8i9hTzm
     url: https://twitter.com/OpenApiSpec/status/1033504412638105601
